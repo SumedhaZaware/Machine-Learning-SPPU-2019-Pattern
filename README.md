@@ -16,4 +16,4 @@ Dataset link: https://www.kaggle.com/datasets/yasserh/uber-fares-dataset
 Classify the email using the binary classification method. Email Spam detection has two states: a) Normal State – Not Spam, b) Abnormal State – Spam. 
 Use K-Nearest Neighbors and Support Vector Machine for classification. Analyze their performance.
 
-Dataset link: The emails.csv dataset on the Kaggle https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
+Dataset link: https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
