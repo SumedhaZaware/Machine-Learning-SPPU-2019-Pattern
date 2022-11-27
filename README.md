@@ -31,3 +31,7 @@ Perform following steps:
 3. Normalize the train and test data.
 4. Initialize and build the model. Identify the points of improvement and implement the same.
 5. Print the accuracy score and confusion matrix
+
+**Assignment-4**
+
+Implement Gradient Descent Algorithm to find the local minima of a function. For example, find the local minima of the function y=(x+3)² starting from the point x=2.
