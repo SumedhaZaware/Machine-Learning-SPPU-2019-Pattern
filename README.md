@@ -35,3 +35,9 @@ Perform following steps:
 **Assignment-4**
 
 Implement Gradient Descent Algorithm to find the local minima of a function. For example, find the local minima of the function y=(x+3)² starting from the point x=2.
+
+**Assignment-5**
+
+Implement K-Nearest Neighbors algorithm on diabetes.csv dataset. Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset.
+
+Dataset link : https://www.kaggle.com/datasets/abdallamahgoub/diabetes
