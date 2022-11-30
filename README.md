@@ -41,3 +41,9 @@ Implement Gradient Descent Algorithm to find the local minima of a function. For
 Implement K-Nearest Neighbors algorithm on diabetes.csv dataset. Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset.
 
 Dataset link : https://www.kaggle.com/datasets/abdallamahgoub/diabetes
+
+**Mini Project**
+
+Build a machine learning model that predicts the type of people who survived the Titanic shipwreck using passenger data (i.e. name, age, gender, socio-economic class, etc.). 
+
+Dataset Link: https://www.kaggle.com/competitions/titanic/data
